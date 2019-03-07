@@ -41,7 +41,7 @@ footer {
     text-align: center;
     color: #000000;
     position: fixed;
-<<<<<<< HEAD
+
     width: 100%;
 }
 
@@ -101,5 +101,5 @@ input[type=submit]:hover {
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;
->>>>>>> 60b2b02988fd3a9a725cf3b39fba5c3c5a191cf2
+
 }
