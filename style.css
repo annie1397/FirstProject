@@ -10,7 +10,7 @@ body {margin:0;}
 
 .navbar {
     overflow: hidden;
-    background-color: #684545;
+    background-color: #8c8e91;
     position: revert;
     top: 0;
     width: 100%;
@@ -101,3 +101,32 @@ input[type=submit]:hover {
     padding: 20px;
 
 }
+table {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 20px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+#pr{
+    float:left;
+    margin: 4px;
+    border-radius: 6px;
+    padding: 20px;
+}
+#my{
+    font-family: Arial, sans-serif;
+    font-size: 25px;
+    opacity: 0.9;
+
+}
+
