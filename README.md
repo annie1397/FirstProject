@@ -1,4 +1,4 @@
 # FirstProject
 
 __Hello !__
-_*This is our first Project in Prog Pi _*
+*__This is our first Project in Prog Pi __*
